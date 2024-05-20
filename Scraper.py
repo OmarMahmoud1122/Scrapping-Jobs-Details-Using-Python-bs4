@@ -1,8 +1,6 @@
 # Import libraries
-import urllib.request,urllib.parse,urllib.error
 import requests
 import bs4
-import json
 import pandas as pd
 # Scrapper function takes: job position, job location and required number of pages to scrape 
 def scrapper(position,location,num_of_pages):
