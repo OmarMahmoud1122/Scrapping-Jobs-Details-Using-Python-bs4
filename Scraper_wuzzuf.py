@@ -32,7 +32,7 @@ def scrapper(position,location,num_of_pages):
     # Construct DataFrame then print it
     df = pd.DataFrame({'job_name': job_name, 'company_name' : company_name, 'job_type':job_type,'Link':Link})
     df.index = df.index + 1
-    df.to_csv(r'C:\Users\omars\OneDrive\Desktop\scrappers\Scraper_data.csv')
+    df.to_csv(#file path)
     print(df)
     
 if __name__ == '__main__':
