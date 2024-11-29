@@ -1,4 +1,5 @@
-Enter position, comapny_name and number_of_pages as inputs for scrapper function
+Enter position, comapny_name and number_of_pages as inputs for scrapper function.
+
 
 Scrape jobs details from Wuzzuf using:
 - requests
