@@ -4,3 +4,5 @@ Scrape jobs details from Wuzzuf using:
   
 Store data as a csv file using:
 - pandas
+
+enter position, comapny_name and number_of_pages as inputs for scrapper function
